@@ -19,3 +19,4 @@ TODO
 ## Reference
 
 - <https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap>
+- <https://github.com/terryum/awesome-deep-learning-papers>
