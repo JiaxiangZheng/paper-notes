@@ -10,6 +10,7 @@ TODO
 2. CNN Architecture
 3. Object Detection
 4. Object Segmentation
+8. Deep Compression
 4. Image Art
 5. RNN
 6. GAN
